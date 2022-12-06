@@ -689,6 +689,10 @@ button {
     overflow: hidden;
 }
 
+.card-container > img {
+    display: block;
+}
+
 .examples-thumb {
     position: absolute;
     bottom: 0;
